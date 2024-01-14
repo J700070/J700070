@@ -5,3 +5,20 @@ I'm a full-stack software engineer who loves creating new applications and solut
 I love everything about software engineering, startups, and entrepreneurship. I'm proud of my business-oriented mindset and my ability to link business and technology.
 
 ## ⚡️ A Few Quick Facts
+- 🔭 &nbsp; I’m currently working on **Roast My Web** and other side projects.
+- 🌱 &nbsp; I’m currently learning how to make great products.
+- 👨🏻‍💻 &nbsp; Most of my projects and some interesting info are available to check out in my personal webpage [DevJH](https://www.devjh.com/)
+- 🎨 &nbsp; I love to design new solutions from scratch.
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to find me on [LinkedIn]([https://www.linkedin.com/in/rahul-jha98/](https://www.linkedin.com/in/juan-hernandez-sanchez/))
+- 📝 &nbsp; Find more about me [here](https://www.devjh.com/about)
+- 📚 &nbsp; When I am free, I read all kinds of books and play videogames. Checkout my [Goodreads](https://www.goodreads.com/user/show/87370928-j700070) to see the book I have read
+
+<br>
+
+## ⛳️ Projects Released
+- 🔥 **Roast My Web**: Improve your website using AI. Check it out [here](https://www.roastmyweb.com/)
+- 📖 **Readstats**: Spotify Wrapped for books. Check it out [here](https://www.readstats.com/)
+- 🧘‍♀️ **Cuentos Zen**: Zen tales for reading and reflection. Check it out [here](https://www.cuentos-zen.com/)
+
+- 
